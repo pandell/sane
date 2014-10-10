@@ -7,6 +7,9 @@
     "type": "git",
     "url": "https://github.com/amasad/sane"
   },
+  "publishConfig": {
+    "registry": "https://npm.pandell.com"
+  },
   "scripts": {
     "test": "mocha --bail"
   },
